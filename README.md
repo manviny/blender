@@ -20,7 +20,7 @@
 ## Extrusión
 
 ## Edición proporcional
-![](assets/edicion_proporcioanal.png)
+![](assets/edicion_proporcional.png)
 
 ## Bucles y anillos
 
