@@ -42,6 +42,7 @@
 - Manteniendo **shift** podemos seleccionar multiple aristas o caras
 
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/seleccion_anillo.png" width="480">
+
 - **Loop Cut**
 - Permite cortar un objeto y ampliar número de cortes desde la ventana flotante
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/loopcut.png" width="480">
