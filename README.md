@@ -35,6 +35,7 @@
 - choose a point in one of the objects, **ctrl+L** (linked) to choose the whole linked object
 - **P** (separate, part)
 - Choose Selection
+- Igualmente se pueden __separar caras de un objeto__
 
 ## Bucles y anillos
 
