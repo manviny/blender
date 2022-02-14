@@ -42,7 +42,7 @@
 - Manteniendo **shift** podemos seleccionar multiple aristas o caras
 
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/seleccion_anillo.png" width="480">
-
+- **Loop Cut**
 
 ## Herramientas de edición
 
