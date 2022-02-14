@@ -18,12 +18,10 @@
 ## Modo edición
 
 ## Extrusión
-
+Al pulsar **E** creamos una nueva cara, esta queda en la malla aunqué no realicemos minguna trasformación sobre ella
+<img src="https://raw.githubusercontent.com/manviny/blender/main/assets/extrusion.png" width="480">
 ## Edición proporcional
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/edicion_proporcional.png" width="480">
-
-
-![](assets/edicion_proporcional.png|width=480)
 
 ## Bucles y anillos
 
