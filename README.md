@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/extrusion.png" width="480">
 
 ## Edición proporcional
-- Trabajo sobre mallas  
+- Trabajo sobre mallas o retículas mediante el modo proporcional
 
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/edicion_proporcional.png" width="480">
 
