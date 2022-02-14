@@ -23,9 +23,18 @@
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/extrusion.png" width="480">
 
 ## Edición proporcional
-- Trabajo sobre mallas o retículas mediante el modo proporcional
+- Trabajo sobre mallas o retículas mediante el **modo proporcional**
 
 <img src="https://raw.githubusercontent.com/manviny/blender/main/assets/edicion_proporcional.png" width="480">
+
+## Un/Join objects
+#### join objects
+- select objects to join
+- ctrl + J
+#### Unjoin objects
+- choose a point in one of the objects, **ctrl+L** to choose the whole linked object
+- P (separate)
+- Choose Selection
 
 ## Bucles y anillos
 
@@ -64,10 +73,3 @@
 
 
 
-## Join objects
-- select objects to join
-- ctrl + J
-## Unjoin objects
-- choose a point in one of the objects, **ctrl+L** to choose the whole linked object
-- P (separate)
-- Choose Selection
