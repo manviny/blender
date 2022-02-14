@@ -30,10 +30,10 @@
 ## Un/Join objects
 #### join objects
 - select objects to join
-- ctrl + J
+- **ctrl+J** -> se unen las dos mallas en un solo objeto
 #### Unjoin objects
-- choose a point in one of the objects, **ctrl+L** to choose the whole linked object
-- P (separate)
+- choose a point in one of the objects, **ctrl+L** (linked) to choose the whole linked object
+- **P** (separate, part)
 - Choose Selection
 
 ## Bucles y anillos
