@@ -20,7 +20,7 @@
 ## Extrusión
 
 ## Edición proporcional
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://raw.githubusercontent.com/manviny/blender/main/assets/edicion_proporcional.png" width="480">
 
 
 ![](assets/edicion_proporcional.png|width=480)
