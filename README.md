@@ -2,6 +2,19 @@
 
 ## =============================================================
 
+## Introducción
+## Áreas
+## Menús
+## Entorno
+## Navegación
+## Preferencias
+## Modo Objeto
+## Transformaciones
+## Primitivas
+## Jerarquía
+
+## =============================================================
+
 ## Modo edición
 
 ## Extrusión
