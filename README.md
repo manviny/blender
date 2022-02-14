@@ -1,4 +1,43 @@
 # blender
+## Modo edición
+
+## Extrusión
+
+## Edición proporcional
+
+## Bucles y anillos
+
+## Herramientas de edición
+
+## Knife
+
+## Bevel
+
+## Modificadores
+
+## Mirror
+
+## Subsurf
+
+## Array
+
+## Materiales
+
+## Asignación de material
+
+## Vertex paint
+
+## 
+
+## 
+
+
+
+
+
+
+
+
 
 ## Join objects
 - select objects to join
