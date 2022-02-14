@@ -38,6 +38,11 @@
 - Igualmente se pueden __separar caras de un objeto__
 
 ## Bucles y anillos
+- En una esfera, seleccionar un punto y con la tecla **option** apretada, seleccionar una arista contigua. Esto selecciona todo el anillo. Funciona igualmente para caras.
+- Manteniendo **shift** podemos seleccionar multiple aristas o caras
+
+<img src="https://raw.githubusercontent.com/manviny/blender/main/assets/seleccion_anillo.png" width="480">
+
 
 ## Herramientas de edición
 
