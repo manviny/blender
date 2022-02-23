@@ -5,6 +5,11 @@
 ## Introducción
 ## Áreas
 ## Menús
+
+- Ctrl + space  ->  agranda el area actual
+- Ctrl + tab    ->  menu tarta
+
+
 ## Entorno
 ## Navegación
 ## Preferencias
