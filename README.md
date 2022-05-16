@@ -1,5 +1,20 @@
 # blender
 
+## TEMA 0. Instalar Blender en Lliurex
+
+#### Mirar PCs conectados
+- nmap -sP 10.2.1.1/24 | grep 'report' | cut -d' ' -f5
+#### Conectar a un PC
+- ssh lliurex@10.2.1.171
+#### Instalar
+```
+sudo add-apt-repository ppa:thomas-schiex/blender
+sudo apt update
+sudo apt install blender
+```
+
+
+
 ## TEMA 1
 
 ## Introducción
